@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-A full-stack E-Commerce Web Application developed using React.js,Tailwind css, Nodeja. The application allows users to browse products, view product details, manage shopping carts, register/login, and place orders through a responsive and user-friendly interface.
+A full-stack E-Commerce Web Application developed using React.js,Tailwind css, Node.js. The application allows users to browse products, view product details, manage shopping carts, register/login, and place orders through a responsive and user-friendly interface.
 
 ## Live Demo
 
